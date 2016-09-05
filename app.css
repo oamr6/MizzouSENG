@@ -12,12 +12,15 @@ body {
 #graph .bar {
     width: 0;
     height: 35px;
-    background-color: coral;
-    margin: 5px;
-    float: left;
+    background-color: royalblue;
+    margin: 15px;
+    float: right;
 }
 .group:after {
   content: "";
   display: table;
   clear: both;
 }
+
+
+
