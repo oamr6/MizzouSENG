@@ -1,1 +1,13 @@
+#Exercise 2
+## Assignment Description
+* Use Git to track changes
+* Collaborate with others
+* Visiualize data using JavaScript libraray called js
+
+## Tools used
+* [js](https://d3js.org/)
+* [jQuery](https://jQuery.com/)
+* [the hoffington Post API](https://elections.huffingtonpost.com/pollster/api)
+### Visulization
+*CHanged app file to backgroung to pink, float to right, margin to 10 and 10  
 

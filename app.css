@@ -2,17 +2,17 @@ body {
     background-color: #EEE;
 }
 #graph .choice {
-    float: left;
+    float: right;
     font-family: arial;
     font-size: 1.5em;
     min-width: 200px;
     text-align: right;
-    margin: 8px 5px;
+    margin: 10px 10px;
 }
 #graph .bar {
     width: 0;
-    height: 35px;
-    background-color: coral;
+    height: 50px;
+    background-color: pink;
     margin: 5px;
     float: left;
 }
