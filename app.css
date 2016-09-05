@@ -1,8 +1,9 @@
 body {
-    background-color: #EEE;
+    background-color: tan;
 }
 #graph .choice {
     float: left;
+    color: black;
     font-family: arial;
     font-size: 1.5em;
     min-width: 200px;
@@ -12,12 +13,30 @@ body {
 #graph .bar {
     width: 0;
     height: 35px;
-    background-color: coral;
+    background-color: red;
     margin: 5px;
     float: left;
 }
 .group:after {
   content: "";
   display: table;
-  clear: both;
+  clear: both;  
 }
+#graph2 .choice{
+	float: right;
+    font-family: arial;
+    color: black;
+    font-size: 1.5em;
+    min-width: 200px;
+    text-align: right;
+    margin: 8px 5px;
+}
+
+#graph2 .bar {
+    width: 0;
+    height: 35px;
+    background-color: blue;
+    margin: 5px;
+    float: right;
+}
+
