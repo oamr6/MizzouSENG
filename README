@@ -1,13 +1,14 @@
-#Exercise 2
-## Assignment Description
-* Use Git to track changes
-* Collaborate with others
-* Visiualize data using JavaScript libraray called js
-
-## Tools used
+#Assignment 2
+##Assignment Description
+* Use GIT to track changes in your code
+* Collaborate with others on GitHub
+* Visualize data using a JavaScript library called js
+##Tools Use
 * [js](https://d3js.org/)
-* [jQuery](https://jQuery.com/)
-* [the hoffington Post API](https://elections.huffingtonpost.com/pollster/api)
-### Visulization
-*CHanged app file to backgroung to pink, float to right, margin to 10 and 10  
-
+* [jQuery](https://jquery.com/)
+* [the Huffington Post API](https://elections.huffingtonpost.com/pollster/api)
+###Visualization
+* I changed the margin from 5-15px
+* I changed the bars from coral to royalblue
+* I changed the float from left to right
+* Andrea changed app file to background to pink, float to right, and margins to 10px

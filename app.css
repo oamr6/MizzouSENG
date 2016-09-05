@@ -11,13 +11,14 @@ body {
 }
 #graph .bar {
     width: 0;
-    height: 50px;
-    background-color: pink;
-    margin: 5px;
-    float: left;
+    height: 35px;
+    background-color: royalblue;
+    margin: 15px;
+    float: right;
 }
 .group:after {
   content: "";
   display: table;
   clear: both;
 }
+
