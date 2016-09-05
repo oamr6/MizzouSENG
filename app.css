@@ -20,23 +20,20 @@ body {
 .group:after {
   content: "";
   display: table;
-  clear: both;  
+  clear: both;
 }
-#graph2 .choice{
-	float: right;
-    font-family: arial;
-    color: black;
-    font-size: 1.5em;
+#graph2 .choice {
+    float: left;
+    font-family: times;
+    font-size: 2em;
     min-width: 200px;
     text-align: right;
     margin: 8px 5px;
 }
-
 #graph2 .bar {
     width: 0;
     height: 35px;
-    background-color: blue;
+    background-color: red;
     margin: 5px;
-    float: right;
+    float: left;
 }
-
