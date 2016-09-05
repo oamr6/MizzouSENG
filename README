@@ -1,1 +1,13 @@
-
+#Assignment 2
+##Assignment Description
+* Use GIT to track changes in your code
+* Collaborate with others on GitHub
+* Visualize data using a JavaScript library called js
+##Tools Use
+* [js](https://d3js.org/)
+* [jQuery](https://jquery.com/)
+* [the Huffington Post API](https://elections.huffingtonpost.com/pollster/api)
+###Visualization
+* I changed the margin from 5-15px
+* I changed the bars from coral to royalblue
+* I changed the float from left to right
